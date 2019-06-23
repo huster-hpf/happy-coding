@@ -5,7 +5,7 @@ struct Node
 {
 	int val;
 	Node *next;
-	Node(int x = 0) :val(x),next(NULL) {}	//next指针置空很重要
+	Node(int x = 0) :val(x),next(NULL) {}	//next脰赂脮毛脰脙驴脮潞脺脰脴脪陋
 };
 void print_list_reverse1(Node *index)
 {
